@@ -1,6 +1,6 @@
 # CCNA-Fundamentals
 
-**Network Devices:**
+##Network Devices:
 
       1.  Repeator : Repeats the packets to all the ports (Layer1 device, Not mostly using these days)
       2.  **Hub** : **Not an Intelligence device**, It shares the packets to all the ports associated with it (**Layer1 device not mostly used**)
@@ -12,7 +12,7 @@
       6. **Wireless Line Controller(WLC)** :It is used to manage the Access Point's, used when you have many access point's
    
    
-**OSI Model**
+##OSI Model
 
       * 7. Application Layer    (5 to 7->Treated as a Application Layer in **TCP/IP Model**) 
       * 6. Presentation Layer
@@ -23,6 +23,6 @@
       * 1. Physical Layer   (Hub)               (Bits)
       
       
-**Port Numbers**
+##Port Numbers
 
       * Https : 80  * FTP : 21 * TFTP : 69 * Telnet : 23 * SSH : 22 * HTTPS : 443 * SMTP : 25
