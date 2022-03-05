@@ -26,3 +26,8 @@
 ## Port Numbers
 
       * Https : 80  * FTP : 21 * TFTP : 69 * Telnet : 23 * SSH : 22 * HTTPS : 443 * SMTP : 25
+      
+## Number Systems :
+      * Binary (0 or 1) (Base 2)
+      * Decimal (0 - 9) (Base 10)
+      * Hexadecimal (0 - F) (Base 16)
