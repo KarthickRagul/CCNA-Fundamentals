@@ -1,6 +1,6 @@
 # CCNA-Fundamentals
 
-## Network Devices:
+## Network Devices
 
       1.  Repeator : Repeats the packets to all the ports (Layer1 device, Not mostly using these days)
       2.  **Hub** : **Not an Intelligence device**, It shares the packets to all the ports associated with it (**Layer1 device not mostly used**)
@@ -27,7 +27,7 @@
 
       * Https : 80  * FTP : 21 * TFTP : 69 * Telnet : 23 * SSH : 22 * HTTPS : 443 * SMTP : 25
       
-## Number Systems :
+## Number Systems 
       * Binary (0 or 1) (Base 2)
       * Decimal (0 - 9) (Base 10)
       * Hexadecimal (0 - F) (Base 16)
@@ -40,7 +40,7 @@
      
     Example X.X.X.X ---> Here X is 1 Octet = 8 binary Bits/ 1 byte
    
-## Class Classifications :
+## Class Classifications 
       * Class A  - * starts with 0 in binary * decimal 0 to 126 (Range --> 1.0.0.0 to 126.255.255.255) * 127 is a loopback address * 0 is default network (We can't use 127 and 0) * Eg 1.0.0.0 --> first octet (1)-->Networks remaining(0.0.0) --> Hosts 
       * Class B  - * starts with 10 in binary * decimal 128 to 191 (Range --> 128.0.0.0 to 191.255.255.255) * Eg 178.1.1.1 --> first 2 octat(178.1) -->networks remaining (1.1)-->hosts
       * Class C  - A, B, C all are Unicast traffic. It is replaced by CIDR   * starts with 110 in binary * decimal 192 to 223 (Range -->192.0.0.0 to 223.255.255.255) * Eg 198.1.1.1 --> first 3 octet(198.1.1) -->Networks remaining (.1) ---> hosts
