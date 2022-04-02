@@ -46,3 +46,13 @@
       * Class C  - A, B, C all are Unicast traffic. It is replaced by CIDR   * starts with 110 in binary * decimal 192 to 223 (Range -->192.0.0.0 to 223.255.255.255) * Eg 198.1.1.1 --> first 3 octet(198.1.1) -->Networks remaining (.1) ---> hosts
       * Class D  - multicast traffic
       * Class E  - reserved for future
+      
+## Loop back address 
+
+      * Ipv4 - 127.0.0.1 Local loopback address (Range is from 127.0.0.1 to 127.127.127.127)
+      * Ipv6 - ::1 (More optimized compared to Ipv4)
+      * If the IP address has the range from 192.168.X.X to 255.255.0.0 (These Ip address are allocated by the DHCP by itself)
+      * Subnet mask binary 1's should be continuous (i.e 11111111.11110000.00000000.00000000), should not be like this (i.e 110111.00011.000 etc)
+      * **CIDR Notation** : E.g 10.0.0.0/8 (means 255.0.0.0) subnet mask, E.g 10.0.0.1/16 (means 255.255.0.0)
+   
+
